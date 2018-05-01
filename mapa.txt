@@ -1,0 +1,15 @@
+{
+com.teste
+cliente
+[
+Integer:id
+String:descricao
+(Classe):classe
+----------
+{
+com.teste
+classe
+[
+Integer:id
+String:memoria
+String:artigo
